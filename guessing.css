@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #313131;
+  margin: 0;
+}
+
+h1,
+span {
+  background-color: cadetblue;
+}
+
+.navigation {
+  background: white;
+}
+
+span {
+  display: block;
+}
+
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.square {
+  width: 30%;
+  padding-top: 30%;
+  background-color: purple;
+  display: inline-block;
+  margin: 5px;
+}
+
+button {
+  background: white;
+  color: cadetblue;
+  border: none;
+  outline: none;
+}
